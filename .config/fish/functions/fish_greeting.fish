@@ -1,0 +1,1 @@
+/home/zordiev/.local/share/glyph/config/fish/functions/fish_greeting.fish

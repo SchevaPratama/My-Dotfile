@@ -1,0 +1,313 @@
+[
+  {
+    "id": "terminal",
+    "name": "Terminal",
+    "cat": "Apps",
+    "desc": "Launch terminal emulator (kitty)",
+    "varName": "kbTerminal",
+    "defaultKey": "SUPER + T",
+    "key": "SUPER + T"
+  },
+  {
+    "id": "browser",
+    "name": "Web Browser",
+    "cat": "Apps",
+    "desc": "Launch web browser (zen)",
+    "varName": "kbBrowser",
+    "defaultKey": "SUPER + W",
+    "key": "SUPER + W"
+  },
+  {
+    "id": "editor",
+    "name": "Code Editor",
+    "cat": "Apps",
+    "desc": "Launch editor (Neovim)",
+    "varName": "kbEditor",
+    "defaultKey": "SUPER + SHIFT + K",
+    "key": "SUPER + SHIFT + K"
+  },
+  {
+    "id": "files",
+    "name": "File Manager",
+    "cat": "Apps",
+    "desc": "Launch Thunar file explorer",
+    "varName": "kbFileExplorer",
+    "defaultKey": "SUPER + E",
+    "key": "SUPER + E"
+  },
+  {
+    "id": "audio",
+    "name": "Audio Control",
+    "cat": "Apps",
+    "desc": "Pavucontrol audio mixer",
+    "varName": "kbAudio",
+    "defaultKey": "CTRL + ALT + V",
+    "key": "CTRL + ALT + V"
+  },
+  {
+    "id": "close",
+    "name": "Close Window",
+    "cat": "Windows",
+    "desc": "Close focused window",
+    "varName": "kbCloseWindow",
+    "defaultKey": "SUPER + Q",
+    "key": "SUPER + Q"
+  },
+  {
+    "id": "fullscreen",
+    "name": "Fullscreen",
+    "cat": "Windows",
+    "desc": "Toggle window fullscreen",
+    "varName": "kbWindowFullscreen",
+    "defaultKey": "SUPER + F",
+    "key": "SUPER + F"
+  },
+  {
+    "id": "float",
+    "name": "Float Window",
+    "cat": "Windows",
+    "desc": "Toggle floating / tiling",
+    "varName": "kbToggleWindowFloating",
+    "defaultKey": "SUPER + ALT + space",
+    "key": "SUPER + ALT + space"
+  },
+  {
+    "id": "pip",
+    "name": "Pin / PiP",
+    "cat": "Windows",
+    "desc": "Pin window on top (Picture-in-Picture)",
+    "varName": "kbWindowPip",
+    "defaultKey": "SUPER + ALT + backslash",
+    "key": "SUPER + ALT + backslash"
+  },
+  {
+    "id": "move_win",
+    "name": "Move Window Mode",
+    "cat": "Windows",
+    "desc": "Drag / move window with keyboard",
+    "varName": "kbMoveWindow",
+    "defaultKey": "SUPER + Z",
+    "key": "SUPER + Z"
+  },
+  {
+    "id": "resize_win",
+    "name": "Resize Window Mode",
+    "cat": "Windows",
+    "desc": "Resize window with keyboard",
+    "varName": "kbResizeWindow",
+    "defaultKey": "SUPER + X",
+    "key": "SUPER + X"
+  },
+  {
+    "id": "resize_left",
+    "name": "Resize Window Left (Shrink W)",
+    "cat": "Windows",
+    "desc": "Decrease window width using left arrow",
+    "defaultKey": "SUPER + ALT + left",
+    "key": "SUPER + ALT + left"
+  },
+  {
+    "id": "resize_right",
+    "name": "Resize Window Right (Expand W)",
+    "cat": "Windows",
+    "desc": "Increase window width using right arrow",
+    "defaultKey": "SUPER + ALT + right",
+    "key": "SUPER + ALT + right"
+  },
+  {
+    "id": "resize_up",
+    "name": "Resize Window Up (Shrink H)",
+    "cat": "Windows",
+    "desc": "Decrease window height using up arrow",
+    "defaultKey": "SUPER + ALT + up",
+    "key": "SUPER + ALT + up"
+  },
+  {
+    "id": "resize_down",
+    "name": "Resize Window Down (Expand H)",
+    "cat": "Windows",
+    "desc": "Increase window height using down arrow",
+    "defaultKey": "SUPER + ALT + down",
+    "key": "SUPER + ALT + down"
+  },
+  {
+    "id": "keybinds",
+    "name": "Keybindings Cheatsheet",
+    "cat": "Shell",
+    "desc": "View & edit keybindings settings",
+    "varName": "kbKeybinds",
+    "defaultKey": "SUPER + slash",
+    "key": "SUPER + slash"
+  },
+  {
+    "id": "settings",
+    "name": "Settings",
+    "cat": "Shell",
+    "desc": "Glyph settings panel",
+    "varName": "kbSettings",
+    "defaultKey": "SUPER + I",
+    "key": "SUPER + I"
+  },
+  {
+    "id": "quick",
+    "name": "Quick Settings",
+    "cat": "Shell",
+    "desc": "Right-side quick controls",
+    "varName": "kbQuick",
+    "defaultKey": "SUPER + A",
+    "key": "SUPER + A"
+  },
+  {
+    "id": "altar",
+    "name": "Deck / Dashboard",
+    "cat": "Shell",
+    "desc": "Bottom dashboard deck",
+    "varName": "kbAltar",
+    "defaultKey": "SUPER + Space",
+    "key": "SUPER + Space"
+  },
+  {
+    "id": "power",
+    "name": "Power Menu",
+    "cat": "Shell",
+    "desc": "Power / shutdown / reboot menu",
+    "varName": "kbPower",
+    "defaultKey": "SUPER + Escape",
+    "key": "SUPER + Escape"
+  },
+  {
+    "id": "lock",
+    "name": "Lock Screen",
+    "cat": "Shell",
+    "desc": "Lock current session",
+    "varName": "kbLock",
+    "defaultKey": "SUPER + L",
+    "key": "SUPER + L"
+  },
+  {
+    "id": "bar",
+    "name": "Toggle Bar",
+    "cat": "Shell",
+    "desc": "Hide or show status bar",
+    "varName": "kbBar",
+    "defaultKey": "SUPER + B",
+    "key": "SUPER + B"
+  },
+  {
+    "id": "walls",
+    "name": "Wallpapers",
+    "cat": "Shell",
+    "desc": "Wallpaper picker",
+    "varName": "kbWalls",
+    "defaultKey": "SUPER + SHIFT + W",
+    "key": "SUPER + SHIFT + W"
+  },
+  {
+    "id": "vpn",
+    "name": "VPN / Clash",
+    "cat": "Shell",
+    "desc": "Clash Verge VPN panel",
+    "varName": "kbVpn",
+    "defaultKey": "SUPER + P",
+    "key": "SUPER + P"
+  },
+  {
+    "id": "shot",
+    "name": "Screenshot",
+    "cat": "Media",
+    "desc": "Screen capture / editor tool",
+    "varName": "kbShot",
+    "defaultKey": "Print",
+    "key": "Print"
+  },
+  {
+    "id": "clip",
+    "name": "Clipboard History",
+    "cat": "Media",
+    "desc": "Clipboard history menu",
+    "varName": "kbClip",
+    "defaultKey": "SUPER + V",
+    "key": "SUPER + V"
+  },
+  {
+    "id": "charms",
+    "name": "Emoji & Symbols",
+    "cat": "Media",
+    "desc": "Emoji / Kaomoji picker",
+    "varName": "kbCharms",
+    "defaultKey": "SUPER + Period",
+    "key": "SUPER + Period"
+  },
+  {
+    "id": "record",
+    "name": "Screen Record",
+    "cat": "Media",
+    "desc": "Record selected area",
+    "varName": "kbRecord",
+    "defaultKey": "SUPER + ALT + R",
+    "key": "SUPER + ALT + R"
+  },
+  {
+    "id": "colorpick",
+    "name": "Color Picker",
+    "cat": "Media",
+    "desc": "Eyedropper to copy hex color",
+    "varName": "kbPicker",
+    "defaultKey": "SUPER + SHIFT + C",
+    "key": "SUPER + SHIFT + C"
+  },
+  {
+    "id": "playpause",
+    "name": "Play / Pause",
+    "cat": "Media",
+    "desc": "Media play/pause toggle",
+    "varName": "kbPlay",
+    "defaultKey": "CTRL + SUPER + Space",
+    "key": "CTRL + SUPER + Space"
+  },
+  {
+    "id": "prev_ws",
+    "name": "Previous Workspace",
+    "cat": "Workspaces",
+    "desc": "Switch to workspace to the left",
+    "varName": "kbPrevWs",
+    "defaultKey": "CTRL + SUPER + Left",
+    "key": "CTRL + SUPER + Left"
+  },
+  {
+    "id": "next_ws",
+    "name": "Next Workspace",
+    "cat": "Workspaces",
+    "desc": "Switch to workspace to the right",
+    "varName": "kbNextWs",
+    "defaultKey": "CTRL + SUPER + Right",
+    "key": "CTRL + SUPER + Right"
+  },
+  {
+    "id": "special_ws",
+    "name": "Special Workspace",
+    "cat": "Workspaces",
+    "desc": "Toggle scratchpad workspace",
+    "varName": "kbSpecialWs",
+    "defaultKey": "SUPER + S",
+    "key": "SUPER + S"
+  },
+  {
+    "id": "sysmon_ws",
+    "name": "System Monitor Workspace",
+    "cat": "Workspaces",
+    "desc": "Toggle btop system monitor",
+    "varName": "kbSystemMonitorWs",
+    "defaultKey": "CTRL + SHIFT + Escape",
+    "key": "CTRL + SHIFT + Escape"
+  },
+  {
+    "id": "music_ws",
+    "name": "Music Workspace",
+    "cat": "Workspaces",
+    "desc": "Toggle music scratchpad",
+    "varName": "kbMusicWs",
+    "defaultKey": "SUPER + M",
+    "key": "SUPER + M"
+  }
+]

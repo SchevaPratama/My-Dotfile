@@ -1,0 +1,30 @@
+# GNU Stow ignore files
+.stow-local-ignore
+.stow-global-ignore
+
+# ==============================================================================
+# Sensitive Folders (Credentials, Auth Tokens, OAuth, Cookies, Sessions)
+# ==============================================================================
+.config/Codex/
+.config/discord/
+.config/github-copilot/
+.config/libreoffice/
+.config/mozilla/
+.config/obsidian/
+.config/obs-studio/
+.config/pulse/
+.config/session/
+.config/spotify/
+.config/vivaldi/
+.config/zen/
+
+# ==============================================================================
+# Runtime State, Caches, Binary Databases & Personal History
+# ==============================================================================
+.config/dconf/
+.config/GIMP/
+.config/vlc/
+.config/flutter/
+.config/baloofileinformationrc
+.config/dolphinrc
+.config/QtProject.conf
